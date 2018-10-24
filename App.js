@@ -75,7 +75,7 @@ export default class ViroSample extends Component {
         <View style={localStyles.inner} >
 
           <Text style={localStyles.titleText}>
-            Choose your desired experience:
+            Choose your desired experience::
           </Text>
 
           <TouchableHighlight style={localStyles.buttons}
